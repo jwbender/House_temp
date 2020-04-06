@@ -2,7 +2,7 @@
 #include <ESP8266WiFi.h>
 #include <BlynkSimpleEsp8266.h>
 
-char auth[] = "esFv29W_6OtgawfKLFuArPdNS3-X3JmC";
+char auth[] = "jtfcQ-3atei9TbXHPTrw6q1dqjeBO0uo";
 char ssid[] = "Benders Scotland";
 char pass[] = "$ingapore14";
 
